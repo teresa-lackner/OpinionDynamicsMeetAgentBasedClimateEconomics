@@ -1,9 +1,9 @@
 # Opinion Dynamics meet Agent-based Climate Economics: An Integrated Analysis of Carbon Taxation
-This repository contains the NetLogo source code, data and scenarios of the paper "Opinion Dynamics meet Agent-based Climate Economics: An Integrated Analysis of Carbon Taxation". \\
-DOI:\\
-https://doi.org/10.1016/j.jebo.2024.106816\\
-Reference: \\
+This repository contains the NetLogo source code, data and scenarios of the follwing paper:
+
 Lackner, T., Fierro, L. E., & Mellacher, P. (2025). Opinion dynamics meet agent-based climate economics: An integrated analysis of carbon taxation. Journal of Economic Behavior & Organization, 229, 106816.
+
+DOI: https://doi.org/10.1016/j.jebo.2024.106816
 
 ## Usage
 The file *OD model.nlogo* contains the opinion dynamics model. For calibration, the model requries empirical data as input which are collected in the folder *Calibration*.  
